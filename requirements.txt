@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+openpyxl
+PyPDF2
+scikit-learn
+Pillow

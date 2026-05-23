@@ -1,0 +1,3 @@
+"Hello, I'm Srushti Krishnagiri. I graduated in Computer Science from SJCE Mysuru, which gave me the technical foundation to build my career at Bosch, where I've spent the last two years as a Software Engineer.
+
+At Bosch, I’ve specialized in FOTA (Firmware Over-The-Air) update cycles. My role evolved from building infrastructure to performing deep-dive failure analysis. 
